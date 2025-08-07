@@ -1,0 +1,36 @@
+You have joined a team that is developing a music playlist manager app. The app needs to store song details and allow users to create and manage playlists. Users should be able 
+to rate song details and allow users to create and manage playlists. Users should be able to rate songs, add comments, and input information about the artist. Your app must
+cater four songs.
+
+
+you will be evaluated the following:
+-correct implementation of arrays and loops
+-Accuracy in calculating and displaying the average rating.
+-Proper screen navigation with buttons for detailed and extended and extended views
+-Well-designed layout and user interface for both screens.
+-Clear and concise code with the meaningful comments.
+-Ensure the app handles errors, providing constructive feedback in a message if they do occur, and then implement the incorrect action.
+
+Question 1.1
+-Code is implemented on an emulator and GitHub.
+-Declare and initialize the appropriate variables and declare four parallel arrays (song, artist, ratings and comments.)
+-Create methods/functions required.
+-Error Handling
+-Clear and concise source code, good programming practices, and meaningful comments.
+
+Question 1.2
+Main Screen:
+-Add a button for "Add to Playlist"
+-When the user clicks the button, the user must be asked to enter the details for the playlist. The user will enter the song details:(the song title)
+                                                                                                                                     the artist's name
+                                                                                                                                     the rating (1-5)
+                                                                                                                                     use comments.
+-Add a second button that, when clicked, navigates to the second screen
+-Add a third button to exit the app.
+
+Question 1.3
+Detailed View Screen
+-Add a button that when clicked displays the list of songs with the corresponding details using a loop.
+-Add a button that when clicked calculates and displays the average rating for the songs in the playlist. Calculate the average rating using a loop.
+-Add a button to return to the main screen.
+                                                                                                  
